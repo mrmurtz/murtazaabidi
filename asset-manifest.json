@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/murtazaabidi/static/css/main.062ac365.chunk.css",
+    "main.js": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js",
+    "main.js.map": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js.map",
+    "runtime-main.js": "/murtazaabidi/static/js/runtime-main.ed6bc589.js",
+    "runtime-main.js.map": "/murtazaabidi/static/js/runtime-main.ed6bc589.js.map",
+    "static/js/2.ceba51e2.chunk.js": "/murtazaabidi/static/js/2.ceba51e2.chunk.js",
+    "static/js/2.ceba51e2.chunk.js.map": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.map",
+    "index.html": "/murtazaabidi/index.html",
+    "precache-manifest.614f8fc604811353bd68230f82c509f6.js": "/murtazaabidi/precache-manifest.614f8fc604811353bd68230f82c509f6.js",
+    "service-worker.js": "/murtazaabidi/service-worker.js",
+    "static/css/main.062ac365.chunk.css.map": "/murtazaabidi/static/css/main.062ac365.chunk.css.map",
+    "static/js/2.ceba51e2.chunk.js.LICENSE.txt": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.LICENSE.txt",
+    "static/media/arrow1.svg": "/murtazaabidi/static/media/arrow1.14f994f9.svg",
+    "static/media/arrow2.svg": "/murtazaabidi/static/media/arrow2.cea680b2.svg",
+    "static/media/logo.svg": "/murtazaabidi/static/media/logo.5d5d9eef.svg",
+    "static/media/murtaza.png": "/murtazaabidi/static/media/murtaza.0553b4b3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed6bc589.js",
+    "static/js/2.ceba51e2.chunk.js",
+    "static/css/main.062ac365.chunk.css",
+    "static/js/main.f4a6d57b.chunk.js"
+  ]
+}
