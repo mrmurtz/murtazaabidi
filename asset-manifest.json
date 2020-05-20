@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/murtazaabidi/static/css/main.062ac365.chunk.css",
-    "main.js": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js",
-    "main.js.map": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js.map",
+    "main.js": "/murtazaabidi/static/js/main.d6b35cba.chunk.js",
+    "main.js.map": "/murtazaabidi/static/js/main.d6b35cba.chunk.js.map",
     "runtime-main.js": "/murtazaabidi/static/js/runtime-main.ed6bc589.js",
     "runtime-main.js.map": "/murtazaabidi/static/js/runtime-main.ed6bc589.js.map",
     "static/js/2.ceba51e2.chunk.js": "/murtazaabidi/static/js/2.ceba51e2.chunk.js",
     "static/js/2.ceba51e2.chunk.js.map": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.map",
     "index.html": "/murtazaabidi/index.html",
-    "precache-manifest.6d6851f1617f47c746fbb8626699b30f.js": "/murtazaabidi/precache-manifest.6d6851f1617f47c746fbb8626699b30f.js",
+    "precache-manifest.3c0ddc590e4651be9259fe2c0c5fcfe0.js": "/murtazaabidi/precache-manifest.3c0ddc590e4651be9259fe2c0c5fcfe0.js",
     "service-worker.js": "/murtazaabidi/service-worker.js",
     "static/css/main.062ac365.chunk.css.map": "/murtazaabidi/static/css/main.062ac365.chunk.css.map",
     "static/js/2.ceba51e2.chunk.js.LICENSE.txt": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.ed6bc589.js",
     "static/js/2.ceba51e2.chunk.js",
     "static/css/main.062ac365.chunk.css",
-    "static/js/main.f4a6d57b.chunk.js"
+    "static/js/main.d6b35cba.chunk.js"
   ]
 }

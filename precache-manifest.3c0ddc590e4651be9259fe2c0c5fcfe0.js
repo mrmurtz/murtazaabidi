@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "677c5b762feb2276df9e9106cf835e02",
+    "revision": "153b2bbe829f87db918855b377921c86",
     "url": "/murtazaabidi/index.html"
   },
   {
-    "revision": "394e94bed1433695c03c",
+    "revision": "483125977b72e19589cf",
     "url": "/murtazaabidi/static/css/main.062ac365.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "394e94bed1433695c03c",
-    "url": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js"
+    "revision": "483125977b72e19589cf",
+    "url": "/murtazaabidi/static/js/main.d6b35cba.chunk.js"
   },
   {
     "revision": "7abe2c97888a4835503c",
