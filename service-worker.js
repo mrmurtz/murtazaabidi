@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/murtazaabidi/precache-manifest.3c0ddc590e4651be9259fe2c0c5fcfe0.js"
+  "/murtazaabidi/precache-manifest.8b4c8c415001b3f881454a0482f54dfe.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "153b2bbe829f87db918855b377921c86",
+    "revision": "0a6e2a298ec0b21c1d6bb9930084d79c",
     "url": "/murtazaabidi/index.html"
   },
   {
-    "revision": "483125977b72e19589cf",
-    "url": "/murtazaabidi/static/css/main.062ac365.chunk.css"
+    "revision": "451813d3430382bafe0c",
+    "url": "/murtazaabidi/static/css/main.b1912682.chunk.css"
   },
   {
-    "revision": "9bd34cb822fa64f027b9",
-    "url": "/murtazaabidi/static/js/2.ceba51e2.chunk.js"
+    "revision": "3f793226ae4f8f72b9d7",
+    "url": "/murtazaabidi/static/js/2.7bf1fccf.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.LICENSE.txt"
+    "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
+    "url": "/murtazaabidi/static/js/2.7bf1fccf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "483125977b72e19589cf",
-    "url": "/murtazaabidi/static/js/main.d6b35cba.chunk.js"
+    "revision": "451813d3430382bafe0c",
+    "url": "/murtazaabidi/static/js/main.3dbb9379.chunk.js"
   },
   {
     "revision": "7abe2c97888a4835503c",
