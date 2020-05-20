@@ -28,7 +28,7 @@ function App() {
           <div className="description">
             <h3>About me</h3>
             <p>
-              {"I've been designing things for the internet for almost 8 years. It started with "} <a href="https://casserolesclub.com" className="highlight2">Casserole Club</a> {"at FutureGov. Since then I've worked in agencies, corporates and startups learning a lot along the way."}
+              {"I've been designing things for the internet for almost 8 years. It started with "} <a href="https://casseroleclub.com" className="highlight2">Casserole Club</a> {"at FutureGov. Since then I've worked in agencies, corporates and startups learning a lot along the way."}
             </p>
             <br/>
               <p>
