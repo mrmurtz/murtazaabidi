@@ -44,9 +44,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  grid-column: 1 / span 12;
   position: fixed;
-  z-index: -1;
 }
 
 .hero {
@@ -59,11 +57,11 @@ section.about-container {
   display: flex;
   align-items: center;
   justify-content: center;
+  position: relative;
 }
 
 .about {
   color: #242728;
-  /* background-color: red; */
   width: 80%;
   display: flex;
   align-items: center;
