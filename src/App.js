@@ -1,6 +1,4 @@
 import React from 'react';
-import logo1 from './logo.svg';
-import logo from './images/logo.svg'
 import arrow1 from './images/arrow1.svg'
 import arrow2 from './images/arrow2.svg'
 import murtaza from './images/murtaza.png'
