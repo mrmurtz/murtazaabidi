@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.b1912682.chunk.css",
-    "main.js": "/static/js/main.53e16c36.chunk.js",
-    "main.js.map": "/static/js/main.53e16c36.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.af289106.js",
-    "runtime-main.js.map": "/static/js/runtime-main.af289106.js.map",
-    "static/js/2.7bf1fccf.chunk.js": "/static/js/2.7bf1fccf.chunk.js",
-    "static/js/2.7bf1fccf.chunk.js.map": "/static/js/2.7bf1fccf.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1ef711f9c1bdd784894c9b6e88016b9c.js": "/precache-manifest.1ef711f9c1bdd784894c9b6e88016b9c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.b1912682.chunk.css.map": "/static/css/main.b1912682.chunk.css.map",
-    "static/js/2.7bf1fccf.chunk.js.LICENSE.txt": "/static/js/2.7bf1fccf.chunk.js.LICENSE.txt",
-    "static/media/arrow1.svg": "/static/media/arrow1.14f994f9.svg",
-    "static/media/arrow2.svg": "/static/media/arrow2.cea680b2.svg",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-    "static/media/murtaza.png": "/static/media/murtaza.0553b4b3.png"
+    "main.css": "/murtazaabidi/static/css/main.1febc7c0.chunk.css",
+    "main.js": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js",
+    "main.js.map": "/murtazaabidi/static/js/main.f4a6d57b.chunk.js.map",
+    "runtime-main.js": "/murtazaabidi/static/js/runtime-main.ed6bc589.js",
+    "runtime-main.js.map": "/murtazaabidi/static/js/runtime-main.ed6bc589.js.map",
+    "static/js/2.ceba51e2.chunk.js": "/murtazaabidi/static/js/2.ceba51e2.chunk.js",
+    "static/js/2.ceba51e2.chunk.js.map": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.map",
+    "index.html": "/murtazaabidi/index.html",
+    "precache-manifest.507a42fa2a55b3733be4cc2398b9a9bd.js": "/murtazaabidi/precache-manifest.507a42fa2a55b3733be4cc2398b9a9bd.js",
+    "service-worker.js": "/murtazaabidi/service-worker.js",
+    "static/css/main.1febc7c0.chunk.css.map": "/murtazaabidi/static/css/main.1febc7c0.chunk.css.map",
+    "static/js/2.ceba51e2.chunk.js.LICENSE.txt": "/murtazaabidi/static/js/2.ceba51e2.chunk.js.LICENSE.txt",
+    "static/media/arrow1.svg": "/murtazaabidi/static/media/arrow1.14f994f9.svg",
+    "static/media/arrow2.svg": "/murtazaabidi/static/media/arrow2.cea680b2.svg",
+    "static/media/logo.svg": "/murtazaabidi/static/media/logo.5d5d9eef.svg",
+    "static/media/murtaza.png": "/murtazaabidi/static/media/murtaza.0553b4b3.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.af289106.js",
-    "static/js/2.7bf1fccf.chunk.js",
-    "static/css/main.b1912682.chunk.css",
-    "static/js/main.53e16c36.chunk.js"
+    "static/js/runtime-main.ed6bc589.js",
+    "static/js/2.ceba51e2.chunk.js",
+    "static/css/main.1febc7c0.chunk.css",
+    "static/js/main.f4a6d57b.chunk.js"
   ]
 }
