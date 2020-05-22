@@ -5,6 +5,7 @@ import arrow1 from './images/arrow1.svg'
 import arrow2 from './images/arrow2.svg'
 import murtaza from './images/murtaza.png'
 import './App.css';
+import $ from "jquery";
 
 function App() {
   return (
@@ -28,7 +29,7 @@ function App() {
           <div className="description">
             <h3>About me</h3>
             <p>
-              {"I've been designing things for the internet for almost 8 years. It started with "} <a href="https://casserolesclub.com" className="highlight2">Casserole Club</a> {"at FutureGov. Since then I've worked in agencies, corporates and startups learning a lot along the way."}
+              {"I've been designing things for the internet for almost 8 years. It started with "} <a href="https://casseroleclub.com" className="highlight2">Casserole Club</a> {"at FutureGov. Since then I've worked in agencies, corporates and startups learning a lot along the way."}
             </p>
             <br/>
               <p>
@@ -36,10 +37,10 @@ function App() {
               </p>
 
               <br/>
-              <p>{"Here's where you can find my"} <a href="https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8" className="highlight2">CV and Portfolio</a></p>
+              <p>{"Here's where you can find my"} <a href="https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8" className="highlight2">CV and Portfolio.</a></p>
             <br/>
             <p>
-              {"You can reach me by"} <a href="mailto://murtaza.s.abidi@gmail.com" className="highlight2">email</a> or <a href="https://twitter.com/murtz_abidi" className="highlight2">@murtz_abidi</a>.
+              {"Get in touch by"} <a href="mailto://murtaza.s.abidi@gmail.com" className="highlight2">email</a> or <a href="https://twitter.com/murtz_abidi" className="highlight2">@murtz_abidi</a>.
             </p>
 
 
@@ -53,5 +54,7 @@ function App() {
     </div>
   );
 }
+
+
 
 export default App;
