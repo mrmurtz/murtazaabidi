@@ -35,14 +35,15 @@ function App() {
               </p>
 
               <br/>
-              <p>{"Here's where you can find my"} <a href="https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8" className="highlight2">CV and Portfolio.</a></p>
+              <p>{"Here's my"} <a href="https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8" className="highlight2">CV and Portfolio.</a></p>
+            <br/>
+            <p>
+              {"And here they are in"} <a href="https://www.figma.com/proto/b2Hc79PpP6WG5Qr4CUpPE7/Murtaza-Abidi-Case-Studies?node-id=1%3A56&viewport=490%2C407%2C0.11473087966442108&scaling=min-zoom&hide-ui=1" className="highlight2"> Figma</a> {"if that's easier."}
+            </p>
             <br/>
             <p>
               {"Get in touch by"} <a href="mailto://murtaza.s.abidi@gmail.com" className="highlight2">email</a> or <a href="https://twitter.com/murtz_abidi" className="highlight2">@murtz_abidi</a>.
             </p>
-
-
-
             </div>
             <div className="photo">
               <img src={murtaza}></img>
