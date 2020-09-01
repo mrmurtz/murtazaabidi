@@ -5,7 +5,10 @@ import arrow1 from './images/arrow1.svg'
 import arrow2 from './images/arrow2.svg'
 import murtaza from './images/murtaza.png'
 import './App.css';
+// import './mouse.js';
+// import './load.js';
 import $ from "jquery";
+
 
 function App() {
   return (
@@ -24,8 +27,11 @@ function App() {
           </div>
         </div>
       </section>
+      <div className="eyes">
+        <a href="#about"><div className="eye-emoji"></div></a>
+      </div>
       <section className="about-container">
-        <div className="about">
+        <div className="about" id="about">
           <div className="description">
             <h3>About me</h3>
             <p>
