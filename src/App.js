@@ -31,7 +31,7 @@ function App() {
         <a href="#about"><div className="eye-emoji"></div></a>
       </div>
       <section className="about-container">
-        <div className="about">
+        <div className="about" id="about">
           <div className="description">
             <h3>About me</h3>
             <p>
@@ -44,7 +44,7 @@ function App() {
 
               <br/>
               <p>
-                {"Checkout this "} <a href="https://www.figma.com/proto/b2Hc79PpP6WG5Qr4CUpPE7/Murtaza-Abidi-Case-Studies?node-id=1%3A56&viewport=490%2C407%2C0.11473087966442108&scaling=min-zoom&hide-ui=1" className="highlight2">Figma page</a> {" to see recent work + my CV."}
+                {"Checkout this "} <a href="https://www.figma.com/proto/b2Hc79PpP6WG5Qr4CUpPE7/Murtaza-Abidi---Case-Studies?node-id=1%3A56&scaling=min-zoom&hotspot-hints=0&hide-ui=1" className="highlight2">Figma page</a> {" to see recent work + my CV."}
               </p>
 
             <br/>
