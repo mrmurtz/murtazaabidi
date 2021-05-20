@@ -23,7 +23,7 @@ function App() {
           <img src={arrow2} className="arrow arrow6"></img>
           <div className="hero">
             <h1>Hi, {"I'm Murtaza 👋🏽"}</h1>
-            <h2>{"I’m a product designer at"} <a href="https://transferwise.com" className="highlight">TransferWise</a>. {"I design things to help solve problems for people. Sometimes I"} <a href="https://medium.com/@murtz_abidi" className="highlight">write </a>{"about things I care about. And I shout about things on "}<a href="https://twitter.com/murtz_abidi" className="highlight">twitter</a>.</h2>
+            <h2>{"I’m a product designer at"} <a href="https://intercom.design/" className="highlight">Intercom</a>. {"I design things to help solve problems for people. Sometimes I"} <a href="https://medium.com/@murtz_abidi" className="highlight">write </a>{"about things I care about. And I shout about things on "}<a href="https://twitter.com/murtz_abidi" className="highlight">twitter</a>.</h2>
           </div>
         </div>
       </section>
