@@ -43,14 +43,16 @@ function App() {
               </p>
 
               <br/>
-              <p>{"Here's where you can find my"} <a href="https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8" className="highlight2">CV and Portfolio.</a></p>
+              <p>
+                {"Checkout this "} <a href="https://www.figma.com/proto/b2Hc79PpP6WG5Qr4CUpPE7/Murtaza-Abidi---Case-Studies?node-id=1%3A56&scaling=min-zoom&hotspot-hints=0&hide-ui=1" className="highlight2">Figma page</a> {" to see recent work + my CV."}
+              </p>
+
+            <br/>
+            <p>{"Or access them from"} <a href="https://drive.google.com/drive/folders/0ByFB_YO-8JPINEM2MHJfbWpHVm8" className="highlight2">my google drive</a>.</p>
             <br/>
             <p>
               {"Get in touch by"} <a href="mailto://murtaza.s.abidi@gmail.com" className="highlight2">email</a> or <a href="https://twitter.com/murtz_abidi" className="highlight2">@murtz_abidi</a>.
             </p>
-
-
-
             </div>
             <div className="photo">
               <img src={murtaza}></img>
